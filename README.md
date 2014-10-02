@@ -1,9 +1,7 @@
 mx28serial1
 ===========
 
-8-oct-2013
-David Sanz Kirbis
-using modified bioloid ax12 library to setup your MX-28 servos
+Using modified bioloid ax12 library to setup your MX-28 servos
 with a Leonardo board and Serial1 through an 74ls241
 
 for the hardware setup see:
