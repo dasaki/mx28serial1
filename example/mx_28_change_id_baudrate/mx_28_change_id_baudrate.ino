@@ -50,7 +50,7 @@ void setup()
     delay(100);
    //Serial.println("MX-28T test");
 
- //  mx28SetRegisterID(id,CHANGE_ID_REGISTER,newid);// mx28SetRegisterID(currentID, 3, newID); 
+ //  mx28SetRegisterID(id,CHANGE_ID_REGISTER,newid);
  //  mx28SetBR(id,1000000); // set the baudrate
  //  mx28reset(id);       // WARNING!!!
     delay(100);
