@@ -3,14 +3,9 @@ mx28serial1
 
 Using modified bioloid ax12 library to setup your MX-28 servos with a Leonardo board and Serial1 through an 74ls241
 
-for the hardware setup see:
+for the hardware setup see: https://github.com/dasaki/dynashield.
 
-http://savageelectronics.blogspot.com.es/2011/01/arduino-y-dynamixel-ax-12.html
-
-
-for original library see:
-
-http://forums.trossenrobotics.com/showthread.php?5812-Help-with-controlling-an-Dynamixel-MX-28T-with-an-Arduino-Uno
+for original library see: http://forums.trossenrobotics.com/showthread.php?5812-Help-with-controlling-an-Dynamixel-MX-28T-with-an-Arduino-Uno
 
 
 Instructions:
